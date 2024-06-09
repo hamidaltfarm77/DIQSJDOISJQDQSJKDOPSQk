@@ -12,7 +12,7 @@ import asyncio
 #print(time.time()+3600*24*7)
 
 
-LOG='https://discord.com/api/webhooks/1249110504681508915/__YuA8yYYQ7zqw5K5yB4N2sRFBep4iNE-Ux9gK9aTTE4P0Gf3kVCCrs9EeMc_a8U3JAv/messages/1249110544103772314' #webhook for activity log replace numbes at the end of link wit hid of some prevous message sent by this webhook (message has to be in the same channel as webhook)
+LOG='https://discord.com/api/webhooks/1249319531994677290/_e-8hHoJRPCCLuzIdtrpSjUA9Wj7RQrys-b5CcrfRUzZouaxGw1VuSGMr0CjoXbGq5kF/messages/1249319841878249492' #webhook for activity log replace numbes at the end of link wit hid of some prevous message sent by this webhook (message has to be in the same channel as webhook)
 
 GROUP='https://discord.com/api/webhooks/1247963863614361621/Q5E-uRtlvs24FLaUCNuqwPgIiXT5wQyptSRbTO7Xz4VYVc5BDBRL2ERLYJ8BQaEdEFeY' #webhook where found groups will be sent
 
